@@ -1,0 +1,39 @@
+{
+    "name": "David Smith",
+    "username": "htimsdivad32432",
+    "bio": "I am a new frontend developer looking to progress my skills and ready myself for a future in this exciting industry.",
+    "courses": [
+        {
+            "courseId": "001",
+            "title": "HTML 5 For Beginners",
+            "category": "html",
+            "status": "completed",
+            "description": "Start your new career in web development by learning the fundamentals of HTML",
+            "details": ["Markup", "Text", "Lists", "Links", "Objects","Tables","Forms"]
+        },
+        {
+            "courseId": "002",
+            "title": "JavaScript For Beginners",
+            "category": "javaScript",
+            "status": "progress",
+            "description": "Start your new career in web development by learning the fundamentals of HTML",
+            "details": ["Basic", "Loops, Arrays, Objects", "The DOM", "Functions", "Objects"]
+        },
+        {
+            "courseId": "003",
+            "title": "Advanced JavaScript",
+            "category": "javascript",
+            "status": "unstarted",
+            "description": "Take you understanding to the next level with advanced ES6 language features.",
+            "details": ["Arrow Functions", "Destructuring", "Template Literals"]
+        },
+        {
+            "courseId": "004",
+            "title": "CSS for Beginners",
+            "category": "CSS",
+            "status": "unstarted",
+            "description": "Style your webpage like a boss with this introduction to CSS features.",
+            "details": ["Selectors", "Values and Units", "Box Model", "Basic Layout", "Fundamental Concepts"]
+        }
+    ]
+}
